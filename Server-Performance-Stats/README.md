@@ -1,7 +1,3 @@
-# Roadmap-DevOps-Projects
-A collection of hands-on DevOps projects based on the roadmap.sh DevOps guide. Perfect for practicing real-world skills and building my DevOps portfolio.
-
-
 ## Server Stats - Lightweight Server Performance Tool
 
 A simple and portable Bash script to analyze key server performance metrics on any Linux system.
@@ -23,7 +19,7 @@ A simple and portable Bash script to analyze key server performance metrics on a
 1. **Download the script:**
 
    ```bash
-   wget https://github.com/munirmahmud/Roadmap-DevOps-Projects/blob/main/server-stats.sh -O server-stats.sh
+   wget https://github.com/munirmahmud/Roadmap-DevOps-Projects/blob/main/Server-Performance-Stats/server-stats.sh -O server-stats.sh
 
 
 2. **Make it executable:**
