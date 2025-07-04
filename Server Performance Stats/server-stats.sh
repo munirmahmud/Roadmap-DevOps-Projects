@@ -2,7 +2,8 @@
 
 # Script: server-stats.sh
 # Description: Gathers and displays server performance statistics.
-# Author: DevOps Engineer Munir's Assistant
+# Author: Munir Mahmud
+# GitHub: https://github.com/munirmahmud/Roadmap-DevOps-Projects/
 # Date: $(date)
 
 # Exit immediately on error
