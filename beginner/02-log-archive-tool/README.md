@@ -45,5 +45,5 @@ A lightweight CLI tool to archive logs on Linux systems by compressing them into
 Need help packaging, extending, or deploying this in production? Feel free to reach out or create an issue.
 
 
-This project is part of [Roadmap DevOps Projects](https://roadmap.sh) [Project URL](https://roadmap.sh/projects/server-stats)
+This project is part of [Roadmap DevOps Projects](https://roadmap.sh/projects/log-archive-tool)
 

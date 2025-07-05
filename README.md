@@ -58,7 +58,7 @@ bash script.sh
 | Projects                                | Type                      |
 | ----------------------------------------|-------------------------- |
 | [Server Performance Stats](https://github.com/munirmahmud/roadmapsh-devops-projects/tree/main/01-beginner/01-server-performance-stats)  | CLI |
-| [Log Archive Tool]()                              | CLI
+| [Log Archive Tool](https://github.com/munirmahmud/roadmapsh-devops-projects/tree/main/beginner/02-log-archive-tool)                              | CLI
 | [Nginx Log Analyser]()                            | CLI
 | [GitHub Pages Deployment]()                       | CI / CD
 
