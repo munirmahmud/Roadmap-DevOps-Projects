@@ -21,7 +21,31 @@ Projects are grouped by skill level:
 > ⏳ In Progress  
 > 🔒 Locked (Coming Soon)
 
----
+
+## ✅ 2. **Top-Level Folder Structure**
+
+Organize projects by difficulty level (Beginner → Intermediate → Advanced):
+
+```
+📦 devops-projects-hub/
+├── beginner/
+│   ├── 01-server-performance-stats/
+│   ├── 02-log-archive-tool/
+│   └── ...
+├── intermediate/
+│   ├── 01-ansible-configuration/
+│   ├── 02-terraform-do/
+│   └── ...
+├── advanced/
+│   ├── 01-blue-green-deployment/
+│   ├── 02-prometheus-grafana/
+│   └── ...
+├── assets/
+│   └── images/  # screenshots, diagrams, etc.
+├── LICENSE
+├── README.md
+└── CONTRIBUTING.md
+```
 
 ## 🛠️ Tech Stack & Tools
 - Bash, Python
