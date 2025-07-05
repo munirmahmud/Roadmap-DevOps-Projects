@@ -78,7 +78,6 @@ bash script.sh
 * Disk space handling
 * System metrics
 
-```
 
 ## 📬 Connect
 

@@ -34,6 +34,12 @@ A simple and portable Bash script to analyze key server performance metrics on a
    ./server-stats.sh
    ```
 
+     OR
+
+   ```bash
+   bash server-stats.sh
+   ```
+
 ## 📞 Support
 
 Need help packaging, extending, or deploying this in production? Feel free to reach out or create an issue.
