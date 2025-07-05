@@ -19,7 +19,7 @@ A simple and portable Bash script to analyze key server performance metrics on a
 1. **Download the script:**
 
    ```bash
-   wget https://github.com/munirmahmud/Roadmap-DevOps-Projects/blob/main/Server-Performance-Stats/server-stats.sh -O server-stats.sh
+   wget https://github.com/munirmahmud/roadmapsh-devops-projects/blob/main/01-beginner/01-server-performance-stats/server-stats.sh -O server-stats.sh
 
 
 2. **Make it executable:**
