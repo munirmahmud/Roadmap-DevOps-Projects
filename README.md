@@ -1,9 +1,10 @@
-# Roadmap-DevOps-Projects
+# Roadmap DevOps Projects
+
 A collection of hands-on DevOps projects based on the roadmap.sh DevOps guide. Perfect for practicing real-world skills and building my DevOps portfolio.
 
 
-## Server Stats Project & Solution URL
+## DevOps Projects URL
 
-[Project URL](https://roadmap.sh/projects/server-stats)
+1. [Server Performance Stats](https://github.com/munirmahmud/roadmap-devops-projects/tree/main/Server-Performance-Stats)
 
-[Server Performance Stats](https://github.com/munirmahmud/Roadmap-DevOps-Projects/tree/main/Server-Performance-Stats)
+
