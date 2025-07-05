@@ -1,17 +1,9 @@
 # Roadmap DevOps Projects
 
 
-
-
-## DevOps Projects URL
-
-1. [Server Performance Stats](https://github.com/munirmahmud/roadmapsh-devops-projects/tree/main/01-beginner/01-server-performance-stats)
-
-
 # 🚀 DevOps Roadmap Projects Lab
 
-Welcome to the **complete DevOps projects lab** based on [Roadmap.sh](https://roadmap.sh/devops/projects) 🚀  
-This repository contains hands-on implementations of every project from beginner scripts to advanced infrastructure setups. Perfect for practicing real-world skills and building my DevOps portfolio.
+Welcome to the **complete DevOps projects lab** based on [Roadmap.sh](https://roadmap.sh/devops/projects) 🚀 This repository contains hands-on implementations of every project from beginner scripts to advanced infrastructure setups. Perfect for practicing real-world skills and building my DevOps portfolio.
 
 ## 📁 Project Structure
 
@@ -63,10 +55,12 @@ bash script.sh
 
 ## 📷 Project Previews
 
-| Project Name             |  URL                                          |
-| ------------------------ | ---------------------------- |
-| Server Performance Stats | [](https://roadmap.sh/projects/server-stats)  |
-| Log Archive Tool         | [](https://roadmap.sh/projects/server-stats)  |
+| Projects                                | Type                      |
+| ----------------------------------------|-------------------------- |
+| [Server Performance Stats](https://github.com/munirmahmud/roadmapsh-devops-projects/tree/main/01-beginner/01-server-performance-stats)  | CLI |
+| [Log Archive Tool]()                              | CLI
+| [Nginx Log Analyser]()                            | CLI
+| [GitHub Pages Deployment]()                       | CI / CD
 
 
 ---
